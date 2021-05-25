@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #ffffff;
+    padding: 0;
+}
+.container {
+    max-width: 900px;
+    height: auto;
+    background-color: #dddddd;
+    margin-left: 280px;
+}
+.container u{
+    text-align: center;
+    font-size: 35px;
+}
+.container p{
+    font-size: 20px;
+    margin-top: 0;
+    text-align: center;
+}
+.container img{
+    margin-left: 130px;
+}
+.container .first{
+    text-align: justify;
+}
+.container ol li{
+    font-size: 35px;
+    color:red ;
+    list-style: none;
+}
+.container u ol li{
+    list-style: none;
+}
+.container h2{
+    font-size: 30px;
+}
+.container .second h3{
+    float: left;
+    padding-left: 6%;
+    width: auto;
+    height: 30px;
+    background-color: slategrey;
+}
+.container .third{
+    margin-top: 100px;
+}
